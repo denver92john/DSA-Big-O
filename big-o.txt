@@ -1,0 +1,12 @@
+1. 
+    a. constant time O(1)
+    b. logarithmic time O(log n)
+2. Constant time because no matter size of input, algorithm will take same amount of time to complete.
+3. Polynomial time because there's nested loops.
+4. Linear time because running times directly proportional to size of input.
+5. Constant time because just acessing an array
+6. Polynomial time because nested loops.
+7. The algorithm prints out the fibonacci sequence and it's linear.
+8. logarithmic
+9. Constant
+10. Algorithm tells if even or odd and its constant. 
